@@ -1,0 +1,19 @@
+2023-05-18T14:48:30.419+03:00  INFO 18292 --- [restartedMain] com.example.notes.NotesApplication       : Starting NotesApplication using Java 19.0.1 with PID 18292 (D:\projects\java\Java_Pro_dom_35\target\classes started by dm lenovo in D:\projects\java\Java_Pro_dom_35)
+2023-05-18T14:48:30.428+03:00  INFO 18292 --- [restartedMain] com.example.notes.NotesApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-05-18T14:48:30.484+03:00  INFO 18292 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-05-18T14:48:30.484+03:00  INFO 18292 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-05-18T14:48:31.011+03:00  INFO 18292 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-05-18T14:48:31.056+03:00  INFO 18292 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 41 ms. Found 1 JDBC repository interfaces.
+2023-05-18T14:48:31.577+03:00  INFO 18292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-05-18T14:48:31.586+03:00  INFO 18292 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-05-18T14:48:31.587+03:00  INFO 18292 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-18T14:48:31.647+03:00  INFO 18292 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-05-18T14:48:31.647+03:00  INFO 18292 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1162 ms
+2023-05-18T14:48:31.745+03:00  INFO 18292 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-05-18T14:48:31.929+03:00  INFO 18292 --- [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@224df345
+2023-05-18T14:48:31.931+03:00  INFO 18292 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-05-18T14:48:32.019+03:00  INFO 18292 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-05-18T14:48:32.491+03:00  INFO 18292 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-05-18T14:48:32.499+03:00  INFO 18292 --- [restartedMain] com.example.notes.NotesApplication       : Started NotesApplication in 2.494 seconds (process running for 2.931)
+2023-05-18T14:48:45.576+03:00  INFO 18292 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-05-18T14:48:45.579+03:00  INFO 18292 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
